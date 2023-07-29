@@ -5,7 +5,9 @@ Welcome to the **Simple3PAttackSystem** repository! This Unreal Engine project s
 Key features of this project include:
 
 1. **Fluid Combat Mechanics**: The Player character is equipped with Foot IK, allowing for seamless animation blending and natural movement during combat. Players can perform single attacks or unleash powerful combo attacks by clicking at specific moments.
-![IK](https://github.com/mohammadrezah4/Simple3PAttackSystem/assets/49523921/c8de82f3-eb20-4aa6-aea2-220cbc7ba893)
+
+![IK](https://github.com/mohammadrezah4/Simple3PAttackSystem/assets/49523921/17df7270-a262-482c-aa7d-177b18aca5c4)
+![Attack](https://github.com/mohammadrezah4/Simple3PAttackSystem/assets/49523921/c2478902-b2e7-4923-876b-73e436204bf2)
 
 3. **Health Indicators**: Players can easily keep track of their own health, which is displayed on the top left corner of the screen. Additionally, the health of the Enemy is indicated with a red bar above their head, adding to the intensity of combat.
 
