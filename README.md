@@ -15,6 +15,7 @@ Key features of this project include:
 5. **Camera Options**: The camera can be dynamically adjusted between shoulder and center positions, controlled by the 'C' key, to suit different player preferences.
 
 6. **Dynamic Hit Calculation**: Each attack's direction is precisely calculated, resulting in impactful combat experiences. When attacked, the Enemy is pushed back according to the hit direction, adding a realistic touch to the encounters.
+![Hit](https://github.com/mohammadrezah4/Simple3PAttackSystem/assets/49523921/9f752eab-6609-45fc-acc1-83dfe13cb95e)
 
 7. **Smart Enemy AI**: The Enemy uses a simple yet effective AI-BehaviorTree that utilizes the Environment Query System (EQS). This enables the Enemy to intelligently chase and engage the Player, attacking strategically within the appropriate range.
 
