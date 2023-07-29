@@ -9,7 +9,7 @@ Key features of this project include:
 2. **Health Indicators**: Players can easily keep track of their own health, which is displayed on the top left corner of the screen. Additionally, the health of the Enemy is indicated with a red bar above their head, adding to the intensity of combat.
 
 3. **Pause Functionality**: The game can be paused at any time using the 'P' key, giving players the freedom to take a breather, strategize, or attend to other matters.
-4. **Camera Options: The camera can be dynamically adjusted between shoulder and center positions, controlled by the 'C' key, to suit different player preferences.
+4. **Camera Options**: The camera can be dynamically adjusted between shoulder and center positions, controlled by the 'C' key, to suit different player preferences.
 
 5. **Dynamic Hit Calculation**: Each attack's direction is precisely calculated, resulting in impactful combat experiences. When attacked, the Enemy is pushed back according to the hit direction, adding a realistic touch to the encounters.
 
