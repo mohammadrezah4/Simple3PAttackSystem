@@ -3,8 +3,8 @@
 Welcome to the **Simple3PAttackSystem** repository! This Unreal Engine project showcases a straightforward and engaging 3rd Person Attack System. The primary focus is on the Player and Enemy characters, both equipped with an Axe that can be easily swapped with other Edged and Bladed weapons like swords. 
 
 Key features of this project include:
-
-1. **Fluid Combat Mechanics**: The Player character is equipped with Foot IK, allowing for seamless animation blending and natural movement during combat. Players can perform single attacks or unleash powerful combo attacks by clicking at specific moments.
+1. **Smooth player movement**: Smooth player movement with the ability to move in 8 directions, strafe, and utilize Foot IK (Inverse Kinematics).
+2. **Fluid Combat Mechanics**: The Player character is equipped with Foot IK, allowing for seamless animation blending and natural movement during combat. Players can perform single attacks or unleash powerful combo attacks by clicking at specific moments.
 
 ![IK](https://github.com/mohammadrezah4/Simple3PAttackSystem/assets/49523921/17df7270-a262-482c-aa7d-177b18aca5c4)
 ![Attack](https://github.com/mohammadrezah4/Simple3PAttackSystem/assets/49523921/c2478902-b2e7-4923-876b-73e436204bf2)
